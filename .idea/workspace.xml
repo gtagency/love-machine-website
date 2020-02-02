@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18ac89a7-9798-4cbf-9521-40484506977d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/yarn_start.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AppHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logos/agency-black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logos/agency-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logos/coc-transparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/themes/default.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +75,7 @@
       <updated>1580585681540</updated>
       <workItem from="1580585684005" duration="22814000" />
       <workItem from="1580618385676" duration="231000" />
-      <workItem from="1580618633185" duration="1613000" />
+      <workItem from="1580618633185" duration="2073000" />
     </task>
     <task id="LOCAL-00001" summary="Project Init">
       <created>1580586225857</created>
@@ -117,22 +104,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="508" y="53" width="894" height="969" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1580586225705" />
-    <state width="1898" height="272" key="GridCell.Tab.0.bottom" timestamp="1580618993443">
+    <state width="1898" height="272" key="GridCell.Tab.0.bottom" timestamp="1580620711982">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580618993443" />
-    <state width="1898" height="272" key="GridCell.Tab.0.center" timestamp="1580618993443">
+    <state width="1898" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580620711982" />
+    <state width="1898" height="272" key="GridCell.Tab.0.center" timestamp="1580620711982">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="272" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580618993443" />
-    <state width="1898" height="272" key="GridCell.Tab.0.left" timestamp="1580618993442">
+    <state width="1898" height="272" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580620711982" />
+    <state width="1898" height="272" key="GridCell.Tab.0.left" timestamp="1580620711981">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="272" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580618993442" />
-    <state width="1898" height="272" key="GridCell.Tab.0.right" timestamp="1580618993443">
+    <state width="1898" height="272" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580620711981" />
+    <state width="1898" height="272" key="GridCell.Tab.0.right" timestamp="1580620711982">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="272" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580618993443" />
+    <state width="1898" height="272" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580620711982" />
     <state x="441" y="175" key="SettingsEditor" timestamp="1580618697046">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
