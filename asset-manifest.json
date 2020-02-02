@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/love-machine/static/css/main.b48356af.chunk.css",
+    "main.js": "/love-machine/static/js/main.65d27d30.chunk.js",
+    "main.js.map": "/love-machine/static/js/main.65d27d30.chunk.js.map",
+    "runtime-main.js": "/love-machine/static/js/runtime-main.921cb476.js",
+    "runtime-main.js.map": "/love-machine/static/js/runtime-main.921cb476.js.map",
+    "static/js/2.2a63cb8f.chunk.js": "/love-machine/static/js/2.2a63cb8f.chunk.js",
+    "static/js/2.2a63cb8f.chunk.js.map": "/love-machine/static/js/2.2a63cb8f.chunk.js.map",
+    "index.html": "/love-machine/index.html",
+    "precache-manifest.829a195019db98b64fe5b75fc1e8ff7d.js": "/love-machine/precache-manifest.829a195019db98b64fe5b75fc1e8ff7d.js",
+    "service-worker.js": "/love-machine/service-worker.js",
+    "static/css/main.b48356af.chunk.css.map": "/love-machine/static/css/main.b48356af.chunk.css.map",
+    "static/js/2.2a63cb8f.chunk.js.LICENSE.txt": "/love-machine/static/js/2.2a63cb8f.chunk.js.LICENSE.txt",
+    "static/media/agency-black.png": "/love-machine/static/media/agency-black.b398d286.png",
+    "static/media/agency-white.png": "/love-machine/static/media/agency-white.03a4d089.png",
+    "static/media/coc-transparent.png": "/love-machine/static/media/coc-transparent.15024af3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.921cb476.js",
+    "static/js/2.2a63cb8f.chunk.js",
+    "static/css/main.b48356af.chunk.css",
+    "static/js/main.65d27d30.chunk.js"
+  ]
+}
